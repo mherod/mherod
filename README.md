@@ -1,3 +1,2 @@
 ### 😼 you found me!
-- 📱 I'm a Senior Android Developer for UNiDAYS
-- 🤩 I'm a passionate Kotlin enthusiast
+- 📱 I'm a Senior Software Engineer at UNiDAYS
