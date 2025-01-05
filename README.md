@@ -1,10 +1,11 @@
-### 😼 you found me!
-- 📱 I'm a Senior Software Engineer who loves building things that matter
-- 🎯 Passionate about creating intuitive experiences that help people
-- 🌱 Building apps and tools that scale to millions of users
-- 🛠️ Love solving complex problems with elegant technical solutions
-- 🔄 Skilled in full-stack development and system architecture
-- ⚡ Always exploring ways to innovate and improve things
+### 😼 Welcome to my GitHub Profile!
+- 📱 Senior Engineer working with Android, TypeScript, Vue.js, React and Next.js
+- 🎯 Building context-aware applications that scale to millions of users
+- 🛠 Frontend journey from native Android through Vue, Nuxt, React and Next.js
+- 🛠️ Experienced in modern web tech: React, Node.js, Three.js
+- ⚡ Enjoy creating developer tools that solve real problems
+- 🌐 Focused on intuitive interfaces and clean architecture
+- 🔄 Started with Java, grown with Android, exploring what's next
 
 ---
 
