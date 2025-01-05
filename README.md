@@ -1,4 +1,4 @@
-### 😼 Welcome to my GitHub Profile!
+### 😼 here I am
 - 📱 Senior Engineer working with Android, TypeScript, Vue.js, React and Next.js
 - 🎯 Building context-aware applications that scale to millions of users
 - 🛠 Frontend journey from native Android through Vue, Nuxt, React and Next.js
