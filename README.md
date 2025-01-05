@@ -5,3 +5,8 @@
 - 🛠️ Love solving complex problems with elegant technical solutions
 - 🔄 Skilled in full-stack development and system architecture
 - ⚡ Always exploring ways to innovate and improve things
+
+---
+
+🌐 [herod.dev](https://herod.dev/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mherod/)
